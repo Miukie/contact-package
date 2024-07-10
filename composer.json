@@ -1,0 +1,13 @@
+{
+    "name": "tonyfumes/contact",
+    "description": "This is a contact package test.",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tonyfumes\\Contact\\": "src/"
+        }
+    }
+}
