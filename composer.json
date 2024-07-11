@@ -12,9 +12,9 @@
     },
     "extra": {
         "laravel": {
-            "providers": {
+            "providers": [
                 "Tonyfumes\\Contact\\ContactServiceProvider"
-            }
+            ]
         }
     }
 }
