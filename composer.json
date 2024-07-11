@@ -9,5 +9,12 @@
         "psr-4": {
             "Tonyfumes\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": {
+                "Tonyfumes\\Contact\\ContactServiceProvider"
+            }
+        }
     }
 }
